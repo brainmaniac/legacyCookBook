@@ -1,4 +1,4 @@
-# leagacyCookBook
+# legacyCookBook
 The wisdom of tools for conquering the glorious web!
 
 ## GIT COMMANDS
