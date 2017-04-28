@@ -9,7 +9,7 @@ The wisdom of tools for conquering the glorious web!
 
 **git branch**                    See which branch you are currently on
 
-**git branch checkout _XXXXX_**   Change to other branch
+**git checkout _XXXXX_**   Change to other branch
 
 **git checkout -- .** Remove untracked changes
 
