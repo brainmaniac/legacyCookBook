@@ -1,5 +1,6 @@
 # legacyCookBook
 The wisdom of tools for conquering the glorious web!
+![alt text](http://m.memegen.com/x6259d.jpg)
 
 ## GIT COMMANDS
 **git status**                    Check status (eg. do you have any uncommited changes)
