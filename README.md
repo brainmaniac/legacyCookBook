@@ -21,7 +21,7 @@ The wisdom of tools for conquering the glorious web!
 
 **git push --all origin**         Send all to common code base
 
-**git branch -m "NEWNAME"**       Rename current branch
+**git branch -m NEWNAME**       Rename current branch
 
 ##
 
