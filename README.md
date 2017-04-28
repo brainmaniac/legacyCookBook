@@ -10,7 +10,7 @@ The wisdom of tools for conquering the glorious web!
 
 **git branch checkout _XXXXX_**   Change to other branch
 
-**git branch feature/new-feauture **   Create new branch based on current branch
+**git branch feature/new-feauture**   Create new branch based on current branch
 
 **git merge _XXXXX_"**            Merge branch _XXXXX_ with current branch
 
