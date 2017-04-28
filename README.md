@@ -8,7 +8,9 @@ The wisdom of tools for conquering the glorious web!
 
 **git branch**                    See which branch you are currently on
 
-**git branch checkout _XXXXX_**   Change to other branch (If branch does not exist that branch is beeing created)
+**git branch checkout _XXXXX_**   Change to other branch
+
+**git branch feature/new-feauture **   Create new branch based on current branch
 
 **git merge _XXXXX_"**            Merge branch _XXXXX_ with current branch
 
