@@ -21,3 +21,21 @@ The wisdom of tools for conquering the glorious web!
 **git push --all origin**         Send all to common code base
 
 ##
+
+## NPM/YARN
+**commands**
+
+## PHP/LARAVEL
+**commands**
+
+## PYTHON
+**commands**
+
+## VAGRANT/VIRTUAL BOX/HOSTS ETC
+**commands**
+
+## UNIX
+**commands**
+
+## WINDOWS
+**commands**
