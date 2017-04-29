@@ -23,6 +23,8 @@ The wisdom of tools for conquering the glorious web!
 
 **git branch -m NEWNAME**       Rename current branch
 
+**failsafe windows lineending to unix** Delete file, restore file, commit
+
 ##
 
 ## NPM/YARN
