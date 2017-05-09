@@ -40,7 +40,8 @@ The wisdom of tools for conquering the glorious web!
 **commands**
 
 ## UNIX
-**commands**
+**echo mypassword | sudo -S command** Pipe command to prompt
+
 
 ## WINDOWS
 **commands**
