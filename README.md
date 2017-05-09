@@ -11,7 +11,7 @@ The wisdom of tools for conquering the glorious web!
 
 **git checkout _XXXXX_**   Change to other branch
 
-**git checkout -- .** Remove untracked changes
+**git checkout -- .** Remove unstaged changes
 
 **git branch feature/new-feauture**   Create new branch based on current branch
 
