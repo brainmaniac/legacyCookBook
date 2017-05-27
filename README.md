@@ -23,7 +23,8 @@ The wisdom of tools for conquering the glorious web!
 
 **git branch -m NEWNAME**       Rename current branch
 
-**git push origin --delete <branch_name>** Delet remote branch  
+**git push origin --delete <branch_name>** Delet remote branch
+
 **git branch -d <branch_name>**   Delete local branch
 
 **failsafe windows lineending to unix** Delete file, restore file, commit
