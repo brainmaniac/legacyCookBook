@@ -49,3 +49,7 @@ The wisdom of tools for conquering the glorious web!
 
 ## WINDOWS
 **commands**
+
+## REGEX
+on\('click'.*
+$&console\.log\(123456789\)
