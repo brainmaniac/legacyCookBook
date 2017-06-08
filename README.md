@@ -51,6 +51,6 @@ The wisdom of tools for conquering the glorious web!
 **commands**
 
 ## REGEX
-on\('click'.*
+'click'.*
 
-$&console\.log\(123456789\)
+$&console.log\('eventid'\,123456789\);
