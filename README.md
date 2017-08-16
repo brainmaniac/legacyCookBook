@@ -35,7 +35,7 @@ The wisdom of tools for conquering the glorious web!
 **commands**
 
 ## PHP/LARAVEL
-**commands**
+*php artisan migrate:refresh --seed*  Remake the whole database with current migrations and seed 
 
 ## PYTHON
 **commands**
