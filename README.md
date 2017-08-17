@@ -35,6 +35,7 @@ The wisdom of tools for conquering the glorious web!
 **commands**
 
 ## PHP/LARAVEL
+**composer dump-autoload** Whenever something is not working from commandline using laravel, try this first
 **php artisan migrate:refresh --seed**  Remake the whole database with current migrations and seed 
 
 ## PYTHON
