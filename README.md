@@ -47,6 +47,7 @@ The wisdom of tools for conquering the glorious web!
 
 ## UNIX
 **echo mypassword | sudo -S command** Pipe command to prompt
+
 **copy file from server to local** scp your_username@remotehost.edu:foobar.txt /some/local/directory
 
 
